@@ -1,4 +1,5 @@
 pandas
-matlab
+matplotlab
 seaborn
-steamlit
+streamlit
+numpy
